@@ -27,7 +27,6 @@
 		//===========================================//
 		//==> 추가된부분 : "검색" ,  userId link  Event 연결 및 처리
 		 $(function() {
-			 
 			//==> 검색 Event 연결처리부분
 			//==> DOM Object GET 3가지 방법 ==> 1. $(tagName) : 2.(#id) : 3.$(.className)
 			//==> 1 과 3 방법 조합 : $("tagName.className:filter함수") 사용함. 
